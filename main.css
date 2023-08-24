@@ -1,0 +1,21 @@
+#result{
+  background-color: black;
+  width: 200px;
+  color: white;
+  text-align: right;
+}
+
+td{
+  padding: 0% 0%;
+  margin-right: 0px;
+}
+
+button{
+  padding: 0px 10px;
+  width: 50px;
+}
+
+
+ .block{
+  padding: 0px 50px;
+} 
